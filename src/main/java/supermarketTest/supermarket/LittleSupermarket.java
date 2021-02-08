@@ -16,6 +16,7 @@ public class LittleSupermarket {
     public double incomingSum;
     //商品列表
     public Merchandise merchandises[];
+    public MerchandiseV2 merchandisesV2[];
     //与merchandises[]数组一一对应，代表相同索引下的商品卖的数量
     public int merchandiseSold[];
 }
